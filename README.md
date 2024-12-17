@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [2D game design in Java](https://github.com/noahkrem/Java-2D-Game)
 
-- 🌱 I’m currently learning **Computing 300: Operating Systems I**
+- 🌱 I’m currently learning **WebSockets in TypeScript**
 
 - 📫 How to reach me **kremlern@gmail.com**
 
