@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahkrem&label=Profile%20views&color=0e75b6&style=flat" alt="noahkrem" /> </p>
 
-- 🔭 I’m currently working on [2D game design in Java](https://github.com/noahkrem/Java-2D-Game)
+- 🔭 I’m currently working on [Mobile App design]
 
 - 🌱 I’m currently learning **WebSockets in TypeScript**
 
