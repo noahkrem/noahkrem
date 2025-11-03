@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah Kremler</h1>
-<h3 align="center">A hard-working Computer Engineering student from Canada.</h3>
+<h3 align="center">A talented Computer Engineering student from Canada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahkrem&label=Profile%20views&color=0e75b6&style=flat" alt="noahkrem" /> </p>
 
