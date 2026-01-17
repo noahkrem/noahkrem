@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahkrem&label=Profile%20views&color=0e75b6&style=flat" alt="noahkrem" /> </p>
 
-- 🔭 I’m currently working on **AI/ML & Python Scripting**
+- 🔭 I’m currently working on **AI/ML & Digital System Design**
 
-- 🌱 I’m currently learning **RTOS**
+- 🌱 I’m currently learning **Communication Networks**
 
 - 📫 How to reach me: **kremlern@gmail.com**
 
